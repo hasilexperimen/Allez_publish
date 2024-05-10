@@ -9,5 +9,9 @@ to do nonparametric test please convert accordingly
 
 20240511
 updated data presentation
-data raw uploaded
-processed parametric uploaded
+1.data raw uploaded
+additional
+2.processed parametric uploaded
+3.processed nonparametric link
+http://uis.atwebpages.com/JCY/nonparametric.html
+
