@@ -16,3 +16,8 @@ additional
 3.processed nonparametric link
 http://uis.atwebpages.com/JCY/nonparametric.html
 
+20240716
+add visualization
+allez_spelling48.ipynb
+visualization.pdf
+
