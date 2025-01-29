@@ -22,4 +22,8 @@ allez_spelling48.ipynb
 visualization.pdf
 
 20250129
+full literature review
+https://drive.google.com/file/d/1CIE-5LE1agDOeqGtOvRVGZVlMpD6Zshq/view?usp=sharing
+
+
 
